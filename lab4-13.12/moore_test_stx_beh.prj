@@ -1,0 +1,2 @@
+vhdl isim_temp "lab4_moore.vhd"
+vhdl isim_temp "moore_test.vhd"
